@@ -1,2 +1,2 @@
 # pre-work-phase-2
-Phase 1 of the bootcamp prework
+Phase 2 of the bootcamp prework
